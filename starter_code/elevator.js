@@ -40,7 +40,7 @@ class Elevator {
       this.stop();
     }
   }
-  call() {}
+  call(person) {}
 
 
 }
